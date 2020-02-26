@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+/wp-mail.php
+/wp-trackback.php
+/wp-login.php
+/wp-cron.php
+/wp-admin/
+/wp-links-opml.php
+/index.php
+/wp-settings.php
+/wp-activate.php
+/wp-config-sample.php
+/wp-signup.php
+/wp-load.php
+/.htaccess
+/.gitignore
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-config.php
+/xmlrpc.php
+/wp-includes/
+/.idea
+/wp-content/upgrade/
+/wp-content/ai1wm-backups/
+/wp-content/cache/
+/wp-content/themes/xavier/node_modules/
