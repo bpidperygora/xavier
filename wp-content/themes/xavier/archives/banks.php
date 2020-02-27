@@ -6,7 +6,7 @@
 			$args          = array(
 				'post_type'      => array( 'banks' ),
 				'post_status'    => 'publish',
-				'posts_per_page' => '2',
+				'posts_per_page' => '-1',
 				'orderby'        => 'date',
 			);
 			$products_loop = new WP_Query( $args );
@@ -20,7 +20,7 @@
                     $link_to_bank= get_permalink();
 					?>
 
-                    <div class="col-12 col-md-4 mb-5 flex align-items-center flex-wrap">
+                    <div class="col-12 col-md-4 mb-5 flex flex-column">
                         <h2><a href="<?=$link_to_bank?>"><?=$title?></a></h2>
                         <div class="bank_info">
                             <p><?=$rating?></p>

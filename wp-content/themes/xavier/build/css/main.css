@@ -14023,6 +14023,16 @@ a.text-dark:focus
     color: #ff5e6f;
 }
 
+.mh-100-vh
+{
+    min-height: 100vh;
+}
+
+.text-align-center
+{
+    text-align: center;
+}
+
 .root .block
 {
     position: absolute;
