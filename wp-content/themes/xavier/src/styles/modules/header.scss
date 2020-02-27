@@ -1,0 +1,9 @@
+.root{
+  .block{
+    color: red;
+    position: absolute;
+    display: flex;
+    transition: .5s;
+    transform: translate(10px,10px);
+  }
+}

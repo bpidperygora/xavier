@@ -1,0 +1,297 @@
+#adminmenu .awaiting-mod,
+#adminmenu .update-plugins
+{
+    background-color: #000 !important;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head
+{
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#adminmenu .wp-menu-arrow
+{
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+#adminmenu .wp-menu-arrow div
+{
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#adminmenu li.current a.menu-top,
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu
+{
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+.folded #adminmenu li.current.menu-top,
+.folded #adminmenu li.wp-has-current-submenu
+{
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#adminmenu li.menu-top:hover,
+#adminmenu li.opensub > a.menu-top,
+#adminmenu li > a.menu-top:focus
+{
+    color: #32c14e !important;
+}
+
+#adminmenu .wp-submenu a:focus,
+#adminmenu .wp-submenu a:hover
+{
+    color: #32c14e !important;
+}
+
+#adminmenu a:hover
+{
+    color: #32c14e !important;
+}
+
+#adminmenu li.menu-top > a:focus,
+#adminmenu li a:focus div.wp-menu-image:before,
+#adminmenu li.opensub div.wp-menu-image:before,
+#adminmenu li:hover div.wp-menu-image:before
+{
+    color: #32c14e !important;
+}
+
+#back_to_top,
+#scroll_to_bottom
+{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+
+    position: fixed;
+    z-index: 9999; 
+    right: 20px;
+    bottom: 80px;
+
+    display: none;
+
+    width: 30px;
+    height: 30px;
+
+    cursor: pointer;
+    text-align: center;
+
+    color: #fff;
+    border-radius: 2px;
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#back_to_top:hover
+{
+    background: #23282d;
+}
+
+#scroll_to_bottom
+{
+    bottom: 50px !important;
+
+    display: block;
+}
+#scroll_to_bottom:hover
+{
+    background: #23282d;
+}
+
+#wpadminbar .ab-top-menu > li.hover > .ab-item,
+#wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus
+{
+    color: #fff !important; 
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#wpadminbar:not(.mobile) .ab-top-menu > li:hover > .ab-item,
+#wpadminbar:not(.mobile) .ab-top-menu > li > .ab-item:focus
+{
+    color: #fff !important; 
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+}
+
+#wpadminbar .quicklinks .ab-sub-wrapper .menupop.hover > a
+{
+    color: #fff !important;
+}
+
+#wpadminbar .quicklinks .menupop ul li a:focus,
+#wpadminbar .quicklinks .menupop ul li a:hover,
+#wpadminbar .quicklinks .menupop ul li a:focus strong,
+#wpadminbar .quicklinks .menupop ul li a:hover strong
+{
+    color: #fff !important;
+}
+
+#wpadminbar .quicklinks .menupop.hover ul li a:focus,
+#wpadminbar .quicklinks .menupop.hover ul li a:hover
+{
+    color: #fff !important;
+}
+
+#wpadminbar .quicklinks .menupop.hover ul li div[tabindex]:focus,
+#wpadminbar .quicklinks .menupop.hover ul li div[tabindex]:hover
+{
+    color: #fff !important;
+}
+
+#wpadminbar li #adminbarsearch.adminbar-focused:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar li .ab-item:focus .ab-icon:before,
+#wpadminbar li .ab-item:focus:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar li a:focus .ab-icon:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar li.hover .ab-icon:before,
+#wpadminbar li.hover .ab-item:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar li:hover #adminbarsearch:before,
+#wpadminbar li:hover .ab-icon:before,
+#wpadminbar li:hover .ab-item:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar.nojs .quicklinks .menupop:hover ul li a:focus,
+#wpadminbar.nojs .quicklinks .menupop:hover ul li a:hover
+{
+    color: #fff !important;
+}
+
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu,
+#adminmenu .current div.wp-menu-image:before,
+#adminmenu .wp-has-current-submenu div.wp-menu-image:before
+{
+    color: #fff !important;
+}
+
+#adminmenu a.current:hover div.wp-menu-image:before,
+#adminmenu a.wp-has-current-submenu:hover div.wp-menu-image:before
+{
+    color: #fff !important;
+}
+
+#adminmenu li.wp-has-current-submenu a:focus div.wp-menu-image:before,
+#adminmenu li.wp-has-current-submenu.opensub div.wp-menu-image:before,
+#adminmenu li.wp-has-current-submenu:hover div.wp-menu-image:before
+{
+    color: #fff !important;
+}
+
+#wpadminbar
+{
+    background: #000;
+}
+
+#adminmenu
+{
+    background: #000;
+}
+#adminmenu .wp-submenu
+{
+    background: #000;
+}
+
+#adminmenuback,
+#adminmenuwrap
+{
+    background: #000;
+}
+
+.back_to_top-show
+{
+    display: block !important;
+}
+
+.wp-core-ui .button-primary
+{
+    -webkit-transition: .5s;
+    -webkit-transition: .5s;
+         -o-transition: .5s;
+         -o-transition: .5s;
+            transition: .5s; 
+
+    border-color: transparent !important;
+    background-color: #32c14e !important;
+    background-image: -o-linear-gradient(left, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#30a984), color-stop(80%, #00fa9a), to(#84fab0));
+    background-image:    linear-gradient(to right, #30a984 0%, #00fa9a 80%, #84fab0 100%);
+    background-size: 200% auto;
+    -webkit-box-shadow: 0 4px 10px rgba(61, 75, 69, .09);
+            box-shadow: 0 4px 10px rgba(61, 75, 69, .09);
+}
+.wp-core-ui .button-primary.focus,
+.wp-core-ui .button-primary.hover,
+.wp-core-ui .button-primary:focus,
+.wp-core-ui .button-primary:hover
+{
+    text-decoration: none; 
+
+    background-position: right center;
+}
+
+.wp-core-ui .notice.is-dismissible
+{
+    display: none !important;
+}
+
+a .scroll_to_bottom-show
+{
+    display: none !important;
+}
+
+.wp-media-buttons .insert-media
+{
+    margin-bottom: 0;
+}
+
+div#wp-content-editor-tools
+{
+    max-width: 98.8%;
+    padding-right: 15px; 
+
+    border: 1px solid #e5e5e5;
+    background: #fff !important;
+}
+
+div#wp-content-media-buttons
+{
+    margin-left: 15px;
+}
