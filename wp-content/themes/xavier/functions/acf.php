@@ -9,13 +9,13 @@
 
 
 // Google Map API kay
-
-function my_acf_init() {
-
-	acf_update_setting( 'google_api_key', 'AIzaSyA8D04ffBh0L32J_qtkhSee-S4pEFYmoVM' );
-}
-
-add_action( 'acf/init', 'my_acf_init' );
+//
+//function my_acf_init() {
+//
+//	acf_update_setting( 'google_api_key', 'AIzaSyA8D04ffBh0L32J_qtkhSee-S4pEFYmoVM' );
+//}
+//
+//add_action( 'acf/init', 'my_acf_init' );
 
 
 // Add Theme Options
