@@ -8,7 +8,7 @@
 - Connect API to make widget work) 
 - Add options to show history and update currency pair from JS API.
 
-##What was not done: 
+## What was not done: 
 - Gallery on bank page ( 10 min to do )
 - The parsing ID ( i think we can use post - > ID 5 min to do)
 - Revise entries by cron job.
